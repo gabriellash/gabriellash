@@ -31,4 +31,4 @@
 
 [website]: https://gabriellashebly.wixsite.com/my-site-1
 [instagram]: https://www.instagram.com/gabriella_shebly
-[linkedin]: www.linkedin.com/in/gabriella-shebly 
+[linkedin]: https://www.linkedin.com/in/gabriella-shebly 
