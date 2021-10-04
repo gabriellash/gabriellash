@@ -2,7 +2,6 @@
 
 - 🎓Soon to be grad with a Bachelor's of Science in Computer Science.
 - 🌇Lebanese Native, with a passion to make the world a better place by sharing my skills and innovative ideas.
-- 💻As for my future, I hope to one day specialize and work in the web development field.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💪🏻Analyzed, Quick learner, Updated, Troubleshooter.
 - ⚡ Fun fact: I love to play video games
