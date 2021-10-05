@@ -28,6 +28,6 @@
 <br />
 <br />
 
-[website]: https://gabriellashebly.wixsite.com/my-site-1
+[website]: https://beacons.ai/gabz.edu
 [instagram]: https://www.instagram.com/gabriella_shebly
 [linkedin]: https://www.linkedin.com/in/gabriella-shebly 
