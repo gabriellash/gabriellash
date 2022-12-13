@@ -28,8 +28,9 @@
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
+
 ### :fire: Interesting Stats :
-<img src="https://github-readme-stats.vercel.app/api?usernamegabriellash&show_icons=true&count_private=true&hide=stars)" />
+<img src="https://github-readme-stats.vercel.app/api?username=gabriellash&show_icons=true&count_private=true&hide=stars)" />
 
 <br />
 
