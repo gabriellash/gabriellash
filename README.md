@@ -34,6 +34,10 @@
 
 <br />
 
+#### ThankYou for visiting to my profile :heart:
+![VisitorCount](https://profile-counter.glitch.me/gabriellash/count.svg)
+<br/>
+
 
 [website]: https://beacons.ai/gabz.edu
 [instagram]: https://www.instagram.com/gabriella_shebly
