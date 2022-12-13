@@ -31,8 +31,8 @@
 <br />
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=gabriellash
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellash" />
 [website]: https://beacons.ai/gabz.edu
 [instagram]: https://www.instagram.com/gabriella_shebly
 [linkedin]: https://www.linkedin.com/in/gabriella-shebly 
