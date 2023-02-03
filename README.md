@@ -29,7 +29,9 @@
 
 <br/>
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=gabriellash&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 <br />
 
 
