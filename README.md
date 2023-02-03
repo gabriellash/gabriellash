@@ -28,7 +28,8 @@
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gabriellash&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 <br />
 
 
