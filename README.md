@@ -2,7 +2,7 @@
 
 - 🎓Computer Science Graduate
 - 🌇Lebanese Native, with a passion to make the world a better place by sharing my skills and innovative ideas.
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 💪🏻Analyzed, Quick learner, Updated, Troubleshooter.
 - ⚡ Fun fact: I love to play video games
 
