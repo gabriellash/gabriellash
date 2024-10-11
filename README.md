@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriella Shebly - aka Gabz 👋
 
-- 🎓Computer Science Graduate
+- 🎓M,Sc. in Cybersecurity | B.Sc. in computer Science
 - 🌇Lebanese Native, with a passion to make the world a better place by sharing my skills and innovative ideas.
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - 💪🏻Analyzed, Quick learner, Updated, Troubleshooter.
